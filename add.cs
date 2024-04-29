@@ -1,1 +1,4 @@
-Empty file 1 named add.cs is created.
+public add(int a, int b)
+{
+int c = a + b;
+}
