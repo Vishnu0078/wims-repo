@@ -1,1 +1,4 @@
-Empty file 2 named sub.cs is created.
+public sub(int a, int b)
+{
+int c = a - b;
+}
